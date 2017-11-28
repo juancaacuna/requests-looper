@@ -1,0 +1,8 @@
+{
+  "Applications": [
+    "https://minesweeper-express-api.herokuapp.com/api/records",
+    "https://minesweeper-react-redux.herokuapp.com",
+    "https://requests-l1.herokuapp.com",
+    "https://requests-l2.herokuapp.com"
+  ]
+}
